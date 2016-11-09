@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="64dp"
+    android:paddingRight="64dp"
+    android:paddingTop="0dp"
+    android:background="#ffd657"
+    tools:context="com.example.regine.pdma.TodayActivity"
+    android:padding="20dp"
+    android:id="@+id/today_main">
+
+
+    <TextView
+        android:id="@+id/details_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/weather_icon"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        />
+    <TextView
+        android:id="@+id/humidity_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/details_field"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        />
+    <TextView
+        android:id="@+id/pressure_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/humidity_field"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        />
+
+    <TextView
+            android:id="@+id/city_field"
+        android:textColor="#FFFFFF"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginTop="93dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content" />
+
+    <TextView
+        android:id="@+id/updated_field"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="13sp"
+        android:layout_marginTop="0dp"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/city_field"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/logo"
+        android:layout_alignParentTop="true"
+        android:id="@+id/imageView6"
+        android:layout_alignParentStart="true"
+        android:layout_width="wrap_content"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        app:srcCompat="@drawable/eggweather"
+        android:layout_below="@+id/imageView6"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/imageView8"
+        android:layout_height="20dp" />
+
+    <TextView
+        android:id="@+id/weather_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="90sp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/updated_field"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/current_temperature_field"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="50sp"
+        android:layout_marginTop="8dp"
+        android:layout_width="150dp"
+        android:layout_below="@+id/pressure_field"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonToday"
+        android:background="@android:color/transparent"
+        android:layout_alignBottom="@+id/imageViewTab"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonRate"
+        android:background="@android:color/transparent"
+        android:layout_alignBottom="@+id/imageViewTab"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        app:srcCompat="@drawable/dotone"
+        android:layout_below="@+id/current_temperature_field"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:id="@+id/imageView10"
+        android:layout_height="20dp" />
+
+    <ImageView
+        app:srcCompat="@drawable/navtab1"
+        android:id="@+id/imageViewTab"
+        android:adjustViewBounds="true"
+        android:layout_height="wrap_content"
+        android:baselineAlignBottom="true"
+        android:elevation="0dp"
+        android:layout_alignParentEnd="false"
+        android:layout_width="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+
+</RelativeLayout>
+

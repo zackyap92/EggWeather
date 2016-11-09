@@ -1,0 +1,586 @@
+[
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tweet.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\tweet.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon1.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\icon1.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\april.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\april.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\tab.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\august.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\august.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\february.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\february.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\june.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\june.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\may.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\may.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\april.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\april.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\december.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\december.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eggweather.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\eggweather.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dottwo.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\dottwo.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\marker.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\december.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\december.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon1.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\icon1.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\marker.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\singapore.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\singapore.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dottwo.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\dottwo.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\november.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\november.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\february.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\february.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dotthree.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\dotthree.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dotone.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\dotone.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rate.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\rate.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calender.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\calender.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\september.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\september.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dotone.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\dotone.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quote.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\quote.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navtab3.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\navtab3.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\august.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\august.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\november.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\november.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\october.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\october.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\may.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\may.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navtab1.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\navtab1.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fbicon.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\fbicon.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tweet.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\tweet.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fbicon.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\fbicon.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rate.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\rate.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\july.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\july.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quote.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\quote.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navtab2.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\navtab2.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\july.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\july.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navtab3.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\navtab3.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navtab1.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\navtab1.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\january.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\january.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\singapore.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\singapore.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navtab2.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\navtab2.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dotthree.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\dotthree.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\tab.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\january.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\january.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\june.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\june.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\october.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\october.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\march.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\march.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\september.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\september.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\march.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\march.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eggweather.png",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\src\\main\\res\\drawable\\eggweather.png"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calender.png",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\src\\main\\res\\drawable\\calender.png"
+    },
+    {
+        "merged": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Users\\apple\\AndroidStudioProjects\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Desktop\\php\\PDMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    }
+]
